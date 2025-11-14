@@ -191,7 +191,7 @@ wrangler r2 bucket create your-app-bucket-dev
 # For production, create a separate bucket
 wrangler r2 bucket create your-app-bucket-prod
 ```
-
+   
 **Step 2: Get R2 URL for Development**
 
 **Enable Public Development URL:**
