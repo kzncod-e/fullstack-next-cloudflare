@@ -31,7 +31,7 @@ export default function DashboardPage() {
 		} catch (error) {
 			const errorMessage = error instanceof Error ? error.message : "Unknown error occurred";
 			setError(errorMessage);
-			console.error("❌ Error fetching ollama:", error);
+		
 			console.error("Error message:", errorMessage);
 		} finally {
 			setLoading(false);
