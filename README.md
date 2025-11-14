@@ -419,6 +419,8 @@ pnpm run db:inspect:prod
 
 ## 🔧 Advanced Manual Configuration
 
+
+
 ### Custom Domain Setup
 
 **Add Custom Domain:**
@@ -506,7 +508,7 @@ pnpm run dev:remote
 ```
 
 ## 📜 Available Scripts
-X
+
 ### **Core Development**
 | Script | Description |
 |--------|-------------|
