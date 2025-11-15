@@ -97,3 +97,62 @@ export const dummyData = {
     notes: "All actions executed naturally without detection.",
   },
 };
+  const prompData = [
+    "Login to the platform and record startTime.",
+    "Create one post with niche-related content (AI/tech/lifestyle). Add a short caption and save the post ID/link.",
+    "Scroll through the feed naturally. Record multiple viewed posts.",
+    "Watch several videos until completion. Record title and duration.",
+    "Like relevant posts from the same niche. Save post IDs, titles, and authors.",
+    "Save or bookmark interesting posts. Record them.",
+    "Comment naturally on a few posts. Record post ID, title, author, and comment text.",
+    "Follow several niche-related accounts. Save username and account name.",
+  ];
+
+export  const selectData = [
+    {
+      label: "Select the First Step",
+      title: "First Step",
+      data: prompData,
+    },
+    {
+      label: "Select the Second Step",
+
+      title: "Second Step",
+      data: prompData,
+    },
+    {
+      label: "Select the Third Step",
+      title: "Third Step",
+      data: prompData,
+    },
+    {
+      label: "Select the Fourth Step",
+
+      title: "Fourt Step",
+      data: prompData,
+    },
+    {
+      label: "Select the Fifth Step",
+
+      title: "Fifth Step",
+      data: prompData,
+    },
+    {
+      label: "Select the Sixth Step",
+
+      title: "Sixth Step",
+      data: prompData,
+    },
+    {
+      label: "Select the Seventh Step",
+
+      title: "Seventh Step",
+      data: prompData,
+    },
+    {
+      label: "Select the Eight Step",
+
+      title: "Eight Step",
+      data: prompData,
+    },
+  ];
